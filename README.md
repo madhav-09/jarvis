@@ -22,3 +22,34 @@ Jarvis is a lightweight, personal voice assistant built in Python. It can open w
 ├── musicLibrary.py
 
 
+🔑 API Key Setup
+Replace "api_key" in main.py with your NewsAPI key.
+
+python
+Copy
+Edit
+newsapi = "your_actual_newsapi_key"
+openai = "openapi_yourkey"
+🧠 Usage
+Run the assistant by:
+
+
+python main.py
+Then say "Jarvis" to activate it.
+
+📌 Notes
+Make sure your microphone is working and internet is active.
+
+📜 License
+This project is open-source and free to use for educational purposes.
+
+
+GitHub: github.com/madhav-09
+
+
+
+
+
+
+
+
